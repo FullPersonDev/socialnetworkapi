@@ -4,6 +4,9 @@
 
 https://github.com/FullPersonDev/socialnetworkapi
 
+## Walkthrought Video Link:
+https://drive.google.com/file/d/1VtNqmKadoDYxak62CaQ3H50vl7YdoywO/view
+
 ## Mock Up
 This is what the working application looks like
 
